@@ -1,0 +1,12 @@
+{
+  "name": "Satsuki",
+  "version": "0.1.0",
+  "description": "SatSuki Bot",
+  "main": "main.js",
+  "repository": "https://github.com/MagJu/satsuki.git",
+  "author": "MagJu <magjuyt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
